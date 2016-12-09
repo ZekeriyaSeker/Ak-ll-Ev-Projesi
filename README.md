@@ -1,2 +1,2 @@
-# Ak-ll-Ev-Projesi
+# Akilli-Ev-Projesi
 Akıllı Ev Projesi
